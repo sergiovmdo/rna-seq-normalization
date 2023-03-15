@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 
 setup(
     name='rna-seq-normalization',
-    version='0.1.0',
-    description='My Python Package',
+    version='0.2.0',
+    description='Python package used for performing RNA-Seq normalization. It contains the three most popular techniques: TPM, RPKM and CPM.',
     author='Sergio Vazquez Montes de Oca',
     author_email='sergiovazquezmontesdeoca@gmail.com',
     packages=find_packages(),
